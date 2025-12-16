@@ -1,7 +1,7 @@
 {
   "default": {
     "rocket-welder-sdk": {
-      "baseline": "1.1.33",
+      "baseline": "1.1.34-preview.1",
       "port-version": 0
     }
   }
