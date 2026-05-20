@@ -2,7 +2,7 @@ vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO modelingevolution/rocket-welder-sdk
     REF v${VERSION}
-    SHA512 6fb2d5090c42068cb71224b45e66dbb9d02d783652e414c35563e69d9229ea5eedbd4367dd39a046bc89a2696ed915cc9898fb56a238aec86ba1df8bbea22b3d
+    SHA512 b297c1dd6bf490d42d717bb4e52acb2d4c5c580d00eb917bb9944e0264c68c700a7aa4ca0f2c2dc17208464c91a8298832ad845c45d615bbcf4accbd95dbd0e8
     HEAD_REF main
 )
 
