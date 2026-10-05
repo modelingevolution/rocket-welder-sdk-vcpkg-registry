@@ -1,6 +1,6 @@
 {
   "name": "rocket-welder-sdk",
-  "version": "2.30.0",
+  "version": "3.0.0",
   "description": "C++ SDK for RocketWelder video streaming services",
   "homepage": "https://github.com/modelingevolution/rocket-welder-sdk",
   "license": "MIT",
